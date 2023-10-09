@@ -1,5 +1,4 @@
-Hi!!!
-Initializing code.txt
-Info will be added later
+Hi!!
+How are you?
 
-Have to Learn Python,R,ML,DL
+How is it going for you?
