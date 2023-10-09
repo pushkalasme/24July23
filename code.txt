@@ -1,0 +1,5 @@
+Hi!!!
+Initializing code.txt
+Info will be added later
+
+Have to Learn Python,R,ML,DL
